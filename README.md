@@ -1,6 +1,3 @@
 # TalabatProject
 
-Online e-commerce website for selling products developed using :
-Asp.Net core Api , SQL Server , Entity Framework ,Onion Architecture ,
-Repository Design Pattern And Unit Of Work , Specification Design
-Pattern , Redis , Identity Server .
+Online e-commerce platform is developed using Asp.Net Core Api, SQL Server, and Entity Framework. The architecture follows Onion Architecture, supported by Repository Design Pattern and Unit of Work for efficient data management. Specification Design Pattern enhances query flexibility, while Redis optimizes performance through caching. Identity Server ensures robust authentication, resulting in a secure and high-performance online shopping experience.
