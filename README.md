@@ -35,7 +35,6 @@ Here are Some Screens From The APIS and The Website
 ![photo1693503669 (5)](https://github.com/ahmednader2019/Talabat_API_Project/assets/57724930/61045cdd-f0fd-4b1f-bcde-84cd1ae97dfd)
 
 
-![photo1693503669 (6)](https://github.com/ahmednader2019/Talabat_API_Project/assets/57724930/fd8976c5-a3a3-42fb-b293-6dca9cbb403f)
 
 
 
